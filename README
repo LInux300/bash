@@ -1,0 +1,5 @@
+
+# set bash syntax
+:set syn=sh
+
+# :syntax on
