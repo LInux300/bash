@@ -2,4 +2,8 @@
 # set bash syntax
 :set syn=sh
 
+
+# how to
+https://linuxconfig.org/bash-scripting-tutorial
+
 # :syntax on
